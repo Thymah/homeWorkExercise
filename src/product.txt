@@ -1,0 +1,6 @@
+1,pen,20,20.0,false;
+2,pen,20,20.0,false;
+3,pencil,30,10.0,false;
+4,maker,40,300.0,false;
+5,chair,15,3000.0,false;
+6,book,50,50.0,false;
